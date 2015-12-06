@@ -1,3 +1,4 @@
 *.log
-/secret.py
-
+*.pyc
+secret.py
+secret.pyc
